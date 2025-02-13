@@ -1,3 +1,5 @@
 a = 'harsh'
 b='rai'
-print(a+b)
+c =print(a+b)
+print(c)
+
